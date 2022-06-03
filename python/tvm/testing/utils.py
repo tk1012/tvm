@@ -79,8 +79,8 @@ import time
 from pathlib import Path
 from typing import Optional, Callable, Union, List
 
-import pytest
 import numpy as np
+import pytest
 
 import tvm
 import tvm.arith
